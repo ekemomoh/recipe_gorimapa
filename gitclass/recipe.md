@@ -1,5 +1,5 @@
 #A delicious Nigerian delicacy capable of changing your entire life, I mean, YOUR ENTIRE LIFE!
-##Made by a Eke Momoh (Okay, I copied it from the internet)
+#Made by a Eke Momoh (Okay, I copied it from the internet)
 
 Three zests of `git commit`.
 
