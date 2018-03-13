@@ -1,10 +1,8 @@
-#A delicious recipe
-##Made by a GIT user
+#A delicious Nigerian delicacy capable of changing your entire life, I mean, YOUR ENTIRE LIFE!
+##Made by a Eke Momoh (Okay, I copied it from the internet)
 
 Three zests of `git commit`.
 
-![zest](https://www.gracefruit.com/uploads/images/products/large/gracefruit_gracefruit_lemonzestfragranceoil_1460546630Lemon_Zest_pic.jpg)
+![zest](http://myactivekitchen.com/wp-content/uploads/2015/06/efo-riro-2.jpg)
 
-bla bla
-bla
-bla.
+The recipe provided can guide you onward to the best thing ever
